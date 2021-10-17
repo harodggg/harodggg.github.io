@@ -2,63 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/categories/index-1.html</loc>
+    <loc>https://harodggg.github.com/project/categories/index-1.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/movies/index.html</loc>
+    <loc>https://harodggg.github.com/project/movies/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/music/index.html</loc>
+    <loc>https://harodggg.github.com/project/music/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://harodggg.github.com/project/about/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://harodggg.github.com/project/link/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/archives/index.html</loc>
+    <loc>https://harodggg.github.com/project/archives/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://harodggg.github.com/project/tags/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://harodggg.github.com/project/categories/index.html</loc>
     
     <lastmod>2021-10-17</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/10/17/a/</loc>
+    <loc>https://harodggg.github.com/project/2021/10/17/a/</loc>
     
     <lastmod>2021-10-17</lastmod>
     
@@ -66,7 +66,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://harodggg.github.com/project</loc>
     <lastmod>2021-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

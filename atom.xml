@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Harold&#39;s Blog</title>
   
+  <subtitle>1-hello</subtitle>
+  <link href="https://harodggg.github.com/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://harodggg.github.com/project/"/>
   <updated>2021-10-17T14:12:03.694Z</updated>
-  <id>http://example.com/</id>
+  <id>https://harodggg.github.com/project/</id>
   
   <author>
     <name>Harodggg</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>a</title>
-    <link href="http://example.com/2021/10/17/a/"/>
-    <id>http://example.com/2021/10/17/a/</id>
+    <link href="https://harodggg.github.com/project/2021/10/17/a/"/>
+    <id>https://harodggg.github.com/project/2021/10/17/a/</id>
     <published>2021-10-17T14:12:03.000Z</published>
     <updated>2021-10-17T14:12:03.694Z</updated>
     
