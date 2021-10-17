@@ -3,11 +3,11 @@
   <title>Harold&#39;s Blog</title>
   
   
-  <link href="https://harodggg.github.com/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://harodggg.github.com/"/>
+  <link href="http://example.com/"/>
   <updated>2021-10-17T14:12:03.694Z</updated>
-  <id>https://harodggg.github.com/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>Harodggg</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>a</title>
-    <link href="https://harodggg.github.com/2021/10/17/a/"/>
-    <id>https://harodggg.github.com/2021/10/17/a/</id>
+    <link href="http://example.com/2021/10/17/a/"/>
+    <id>http://example.com/2021/10/17/a/</id>
     <published>2021-10-17T14:12:03.000Z</published>
     <updated>2021-10-17T14:12:03.694Z</updated>
     
